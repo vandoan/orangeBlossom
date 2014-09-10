@@ -8,10 +8,7 @@ function InlineEditorController($scope){
 	// variables. Here we set some default values:
 
 	$scope.showtooltip = false;
-	$scope.value = 'Edit Please.';
-		$scope.value = 'Edit Please.';
-
-		$scope.firstName = 'Edit Please.';
+	$scope.value = 'Edit me.';
 
 	// Some helper functions that will be
 	// available in the angular declarations
